@@ -1,1 +1,3 @@
 
+web speech API de w3s : https://github.com/macdonst/SpeechRecognitionPlugin.git
+w3C vibration API: http://www.w3.org/TR/vibration/
